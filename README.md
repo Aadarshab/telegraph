@@ -23,8 +23,8 @@ Deploy on Heroku
 
 Deploy in your vps
 ```sh
-git clone https://github.com/Jigarvarma2005/Telegraph-Uploader
-cd Telegraph-Uploader
+git clone https://github.com/Aadarshab/telegraph
+cd telegraph
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
 python3 bot.py
