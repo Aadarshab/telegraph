@@ -59,10 +59,10 @@ async def telegraph(bot, message):
     )
     if message.sticker:
         img = Image.open(down_loc).convert('RGB')
-        img.save(f'{DOWNLOAD_DIRECTORY}/jigarvarma2005-{message.from_user.id}.png', 'png')
+        img.save(f'{DOWNLOAD_DIRECTORY}/abcracked-{message.from_user.id}.png', 'png')
         os.remove(down_loc)
-        down_loc = f'{DOWNLOAD_DIRECTORY}/jigarvarma2005-{message.from_user.id}.png'
-    await editable.edit("`Uploading to telegraph plox wait....`")
+        down_loc = f'{DOWNLOAD_DIRECTORY}/abcracked-{message.from_user.id}.png'
+    await editable.edit("`Uploading to telegraph wait....`")
     try:
         response = upload_file(down_loc)
     except Exception as t_e:
