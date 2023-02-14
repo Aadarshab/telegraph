@@ -16,7 +16,7 @@ License -> https://github.com/Jigarvarma2005/Telegraph-Uploader/blob/main/LICENS
 
 Deploy on Heroku
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/Jigarvarma2005/Telegraph-Uploader">
+  <a href="https://dashboard.render.com/deploy?template=https://github.com/Aadarshab/telegraph.git">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
