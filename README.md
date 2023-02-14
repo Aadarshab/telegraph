@@ -38,13 +38,14 @@ python3 bot.py
 
 ### Support
 
-* [GitHub](https://github.com/Jigarvarma2005)
-* [Telegram](https://telegram.me/Jigarvarma2005)
-* [Updates Channel](https://t.me/UniversalBotsUpdate)
-* [Support Group](https://t.me/UniversalBotsSupport)
+* [GitHub](https://telegram.me/abracked)
+* [Telegram](https://telegram.me/abracked)
+* [Updates Channel](https://telegram.me/abracked)
+
+* [Support Group](https://telegram.me/abracked)
 
 ### Credits
 
-* [Jigar Varma](https://github.com/Jigarvarma2005)
-* [Userge Team](https://github.com/UsergeTeam)
+* [Jigar Varma]()
+* [Userge Team]()
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
